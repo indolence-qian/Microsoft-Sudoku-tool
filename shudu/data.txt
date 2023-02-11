@@ -1,0 +1,9 @@
+sp.png 7
+sp1.png 7
+sp3.png 7
+sp4.png 7
+ss1.png 1
+ss2.png 1
+ss3.png 1
+ss4.png 1
+t8.png 1
